@@ -1,0 +1,21 @@
+<h2>Liste des salles</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Nom</th>
+      <th>Description</th>
+      <th>Capacité</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let room of rooms">
+      <td>{{ room.name }}</td>
+      <td>{{ room.description }}</td>
+      <td>{{ room.capacity }}</td>
+      <td>
+        <button (click)="deleteRoom(room.id)">Supprimer</button>
+      </td>
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB764719-7207-426D-9710-62CEAC3425D4}|RoomService.API\\RoomService.API.csproj|c:\\users\\etoun\\music\\max-solutions\\projet_rapport\\dotnet\\roomservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB764719-7207-426D-9710-62CEAC3425D4}|RoomService.API\\RoomService.API.csproj|solutionrelative:roomservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB4CC34-4031-4B8A-90B8-8F62F4C34CB0}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|c:\\users\\etoun\\music\\max-solutions\\projet_rapport\\dotnet\\roomservice.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB4CC34-4031-4B8A-90B8-8F62F4C34CB0}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|solutionrelative:roomservice.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB764719-7207-426D-9710-62CEAC3425D4}|RoomService.API\\RoomService.API.csproj|c:\\users\\etoun\\music\\max-solutions\\projet_rapport\\dotnet\\roomservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB764719-7207-426D-9710-62CEAC3425D4}|RoomService.API\\RoomService.API.csproj|solutionrelative:roomservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB764719-7207-426D-9710-62CEAC3425D4}|RoomService.API\\RoomService.API.csproj|c:\\users\\etoun\\music\\max-solutions\\projet_rapport\\dotnet\\roomservice.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB764719-7207-426D-9710-62CEAC3425D4}|RoomService.API\\RoomService.API.csproj|solutionrelative:roomservice.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6039C9F-04D8-4329-88AA-398E19F85588}|RoomService.Application\\RoomService.Application.csproj|c:\\users\\etoun\\music\\max-solutions\\projet_rapport\\dotnet\\roomservice.application\\usescases\\rooms\\deleteroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6039C9F-04D8-4329-88AA-398E19F85588}|RoomService.Application\\RoomService.Application.csproj|solutionrelative:roomservice.application\\usescases\\rooms\\deleteroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB4CC34-4031-4B8A-90B8-8F62F4C34CB0}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|c:\\users\\etoun\\music\\max-solutions\\projet_rapport\\dotnet\\roomservice.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB4CC34-4031-4B8A-90B8-8F62F4C34CB0}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|solutionrelative:roomservice.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6039C9F-04D8-4329-88AA-398E19F85588}|RoomService.Application\\RoomService.Application.csproj|c:\\users\\etoun\\music\\max-solutions\\projet_rapport\\dotnet\\roomservice.application\\usescases\\rooms\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6039C9F-04D8-4329-88AA-398E19F85588}|RoomService.Application\\RoomService.Application.csproj|solutionrelative:roomservice.application\\usescases\\rooms\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6039C9F-04D8-4329-88AA-398E19F85588}|RoomService.Application\\RoomService.Application.csproj|c:\\users\\etoun\\music\\max-solutions\\projet_rapport\\dotnet\\roomservice.application\\usescases\\rooms\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6039C9F-04D8-4329-88AA-398E19F85588}|RoomService.Application\\RoomService.Application.csproj|solutionrelative:roomservice.application\\usescases\\rooms\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6406FE-4D5C-4CF0-ABE2-9AF1EC5E8457}|RoomService.Domain\\RoomService.Domain.csproj|c:\\users\\etoun\\music\\max-solutions\\projet_rapport\\dotnet\\roomservice.domain\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6406FE-4D5C-4CF0-ABE2-9AF1EC5E8457}|RoomService.Domain\\RoomService.Domain.csproj|solutionrelative:roomservice.domain\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6039C9F-04D8-4329-88AA-398E19F85588}|RoomService.Application\\RoomService.Application.csproj|c:\\users\\etoun\\music\\max-solutions\\projet_rapport\\dotnet\\roomservice.application\\usescases\\rooms\\getallrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6039C9F-04D8-4329-88AA-398E19F85588}|RoomService.Application\\RoomService.Application.csproj|solutionrelative:roomservice.application\\usescases\\rooms\\getallrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6406FE-4D5C-4CF0-ABE2-9AF1EC5E8457}|RoomService.Domain\\RoomService.Domain.csproj|c:\\users\\etoun\\music\\max-solutions\\projet_rapport\\dotnet\\roomservice.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6406FE-4D5C-4CF0-ABE2-9AF1EC5E8457}|RoomService.Domain\\RoomService.Domain.csproj|solutionrelative:roomservice.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RoomService.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.API\\appsettings.json",
+              "RelativeToolTip": "RoomService.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T10:08:36.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.API\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "RoomService.API\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.API\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "RoomService.API\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:00:41.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "RoomService.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "RoomService.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:24:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.API\\Program.cs",
+              "RelativeDocumentMoniker": "RoomService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.API\\Program.cs",
+              "RelativeToolTip": "RoomService.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:16:53.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RoomService.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RoomService.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:12:49.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteRoom.cs",
+              "DocumentMoniker": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Application\\UsesCases\\Rooms\\DeleteRoom.cs",
+              "RelativeDocumentMoniker": "RoomService.Application\\UsesCases\\Rooms\\DeleteRoom.cs",
+              "ToolTip": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Application\\UsesCases\\Rooms\\DeleteRoom.cs",
+              "RelativeToolTip": "RoomService.Application\\UsesCases\\Rooms\\DeleteRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:00:44.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateRoom.cs",
+              "DocumentMoniker": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Application\\UsesCases\\Rooms\\UpdateRoom.cs",
+              "RelativeDocumentMoniker": "RoomService.Application\\UsesCases\\Rooms\\UpdateRoom.cs",
+              "ToolTip": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Application\\UsesCases\\Rooms\\UpdateRoom.cs",
+              "RelativeToolTip": "RoomService.Application\\UsesCases\\Rooms\\UpdateRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:59:35.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddRoom.cs",
+              "DocumentMoniker": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Application\\UsesCases\\Rooms\\AddRoom.cs",
+              "RelativeDocumentMoniker": "RoomService.Application\\UsesCases\\Rooms\\AddRoom.cs",
+              "ToolTip": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Application\\UsesCases\\Rooms\\AddRoom.cs",
+              "RelativeToolTip": "RoomService.Application\\UsesCases\\Rooms\\AddRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:59:12.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllRooms.cs",
+              "DocumentMoniker": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Application\\UsesCases\\Rooms\\GetAllRooms.cs",
+              "RelativeDocumentMoniker": "RoomService.Application\\UsesCases\\Rooms\\GetAllRooms.cs",
+              "ToolTip": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Application\\UsesCases\\Rooms\\GetAllRooms.cs",
+              "RelativeToolTip": "RoomService.Application\\UsesCases\\Rooms\\GetAllRooms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:57:01.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Domain\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "RoomService.Domain\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Domain\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "RoomService.Domain\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:48:29.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Domain\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "RoomService.Domain\\Entities\\Room.cs",
+              "ToolTip": "C:\\Users\\etoun\\Music\\Max-Solutions\\Projet_Rapport\\dotnet\\RoomService.Domain\\Entities\\Room.cs",
+              "RelativeToolTip": "RoomService.Domain\\Entities\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:47:06.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
